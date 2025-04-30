@@ -1,0 +1,21 @@
+Universidade Federal do Ceará
+Campus de Quixadá
+Matemática Computacional
+
+
+1. construa uma função escalonar.m que faça o escalonamento superior e inferior de uma matriz A dada almejando sua diagonalização.2. Adaptando a técnica de gauss-jordan efetue a solução do seguinte sistema não-linear,
+
+
+5 x^2 -y = 46
+2 x + 11 y^2 = 17
+
+
+na entrada da função deve haver a estimativa inicial da solução. A saída deve ser a solução.  
+Indique em comentário a aproximação inicial
+.  Imprima na tela quantas iterações sção efetuadas.
+
+
+---
+
+
+use os arquivos jacob.m e nonlinear.m anexos para implementar seus códigos
